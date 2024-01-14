@@ -3,7 +3,6 @@ from pythonosc import udp_client
 from pythonosc import dispatcher
 from pythonosc import osc_server
 import paho.mqtt.client as mqtt
-import time
 from datetime import datetime
 
 # ----- MESSAGE -----    
