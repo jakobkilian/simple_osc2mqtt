@@ -30,4 +30,4 @@ You can also add port and IP by using arguements (--port and --ip) when executin
 - Now just send OSC messages to this port in this format:
   - `/osc2mqtt myMessage` or `/osc2mqtt 0.33 0.44 0.55` 
   - in max this can look like:
-     <img src="img/udpsend-max.jpg" alt="udpsend in max msp" style="zoom:50%;" />
+     <img src="img/udpsend-max.jpg" alt="udpsend in max msp" style="width:50%;" />
