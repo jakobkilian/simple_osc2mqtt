@@ -1,6 +1,6 @@
 # simple_osc2mqtt
 
-Basic python script to route local OSC messages starting with "/osc2mqtt" to an MQTT broker
+Super basic OSC to MQTT bridge that routes local OSC messages starting with "osc2mqtt" to a MQTT broker.
 
 ## Why?
 
